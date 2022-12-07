@@ -1,3 +1,3 @@
 import {file} from './file'
 
-console.log("file");
+console.log("app.js",file());

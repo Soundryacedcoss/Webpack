@@ -1,3 +1,3 @@
 export function file(){
- return ("ghjg")
+ return ("file.js")
 }
